@@ -1,0 +1,27 @@
+li{
+    display: inline;
+    padding: 18px;
+    list-style: none;
+}
+
+nav{
+    background-color: orange;
+}
+a{
+    text-decoration: none;
+}
+#navbar1 {
+    position: fixed;
+    width: 100%;
+}
+#navbar2 {
+    position: relative;
+    top: 150px;
+}
+#navbar3 {
+    position: absolute;
+    bottom: 150px;
+}
+a:hover {
+    background-color: cyan;
+}
