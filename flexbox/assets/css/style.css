@@ -25,3 +25,9 @@ a{
 a:hover {
     background-color: cyan;
 }
+/* media query */
+@media only screen and (max-width: 768px) {
+    ul(
+    flex-direction: column-reverse;
+    )
+}
