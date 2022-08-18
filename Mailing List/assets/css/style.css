@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1548700819-892a76eed325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE0fHxwYXR0ZXJuJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+}
+
+#choose:invalid{
+    border: 2px solid red
+}
+
+input:valid{
+    border: 2px solid rgb(22, 197, 72);
+}
