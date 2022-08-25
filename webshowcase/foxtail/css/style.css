@@ -13,8 +13,8 @@ a {
   color:#e1a177;
 }
 .btn {
-  background-color: #f8feff;
-  border:2px solid #438dce;
+  background-color: white;
+  border:2px solid #e1a177;
   border-radius: 0px;
 }
 
@@ -23,7 +23,7 @@ a {
 body {
   margin:0;
   color:grey;
-  border-color: #2e4c83;
+  border-color: #e1a177;
   font-family: "montserrat" ;
 }
 
@@ -33,7 +33,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding:50px;
-  background-color:#f8feff;
+  background-color:white;
   color:#e1a177;
   font-family: "montserrat";
 }
@@ -42,7 +42,7 @@ header {
 }
 nav {
   border-bottom: 2px solid #e1a177;
-  background-color:#f8feff;
+  background-color:white;
   position:sticky;
   top:0px;
   box-shadow: 0px 3px 3px 0px rgb(0,0,0,0.3);
@@ -74,7 +74,7 @@ nav a::before {
 }
 nav a:hover {
   background-color: #e1a177;
-  color:#f8feff;
+  color:white;
 }
 .nav-contact {
   display:flex;
@@ -158,11 +158,11 @@ main {
 /* Footer ~~~~~~~ */
 .footer-hat {
   height:30px;
-  background-color: #f8feff;
+  background-color: white;
   border-top:2px solid #e1a177;
 }
 footer {
-  background-color: #f8feff;
+  background-color: white;
   padding:25px;
   border-top:2px dashed ;
   box-sizing: border-box;
@@ -193,7 +193,7 @@ footer h4 {
 }
 
 .footer-feet {
-  background-color: #f8feff;
+  background-color: white;
   height:40px;
   border-top: 2px dashed #e1a177;
 
