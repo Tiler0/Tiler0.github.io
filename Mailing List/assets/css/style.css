@@ -9,3 +9,27 @@ body{
 input:valid{
     border: 2px solid rgb(22, 197, 72);
 }
+ #name{  position: relative;
+  width: 200px;
+   left: 200px;
+}
+ #email{
+    position: relative;
+  width: 200px;
+   left: 200px;
+ }
+#message{
+    position: relative;
+    width: 200px;
+     left: 200px;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+#send{
+    position: relative;
+  width: 210px;
+   left: 200px;
+}
