@@ -10,14 +10,17 @@
 <body>
     <h2>Contact Us</h2>
     <form action="https://getform.io/f/01dba2c3-c3a1-4b7e-9f54-07f017266078" method="POST">
-            
+            <label for="name">Name</label>
         <input type="text" id="name" name="name" required minlength="3">
         <br>
         <br>
+        <label for="email">Email</label>
         <input type="email" id="email" name="email" required minlength="10">
         <br>
         <br>
-        <input type="text" id="message" name="message">
+        
+         <textarea name="text" id="text" cols="30" rows="10"></textarea>
+        
         <br>
         <br>
         <button type="submit" id="send" >Send</button>
