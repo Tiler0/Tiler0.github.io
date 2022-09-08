@@ -10,16 +10,17 @@ input:valid{
     border: 2px solid rgb(22, 197, 72);
 }
  #name{  position: relative;
-  
+    left: 380px;
 }
  #email{
     position: relative;
+    left: 380px;
 
  }
 #text{
     position: relative;
     width: 200px;
-     left: 200px;
+     left: 305px;
 }
 
 h2{
@@ -29,5 +30,8 @@ h2{
 #send{
     position: relative;
   width: 210px;
-   left: 200px;
+   left: 395px;
+}
+label{
+    vertical-align: top;
 }
